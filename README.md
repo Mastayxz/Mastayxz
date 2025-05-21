@@ -61,10 +61,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastayxz&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mastayxz&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastayxz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### :writing_hand: Blog Posts :
